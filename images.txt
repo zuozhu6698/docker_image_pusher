@@ -1,3 +1,4 @@
+quay.io/go-skynet/local-ai:latest
 ghcr.io/open-webui/open-webui:main
 nginx
 #支持私库
