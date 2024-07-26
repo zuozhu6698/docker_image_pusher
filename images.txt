@@ -1,3 +1,4 @@
+xprobe/xinference:latest
 localai/localai:latest-aio-gpu-nvidia-cuda-12
 quay.io/go-skynet/local-ai:latest
 ghcr.io/open-webui/open-webui:main
