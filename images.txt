@@ -1,4 +1,4 @@
-nvidia/cuda:11.0-base
+nvcr.io/nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #dify
 langgenius/dify-api:0.6.15
 langgenius/dify-web:0.6.15
