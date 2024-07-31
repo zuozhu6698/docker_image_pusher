@@ -1,4 +1,4 @@
-ghcr.io/ggerganov/llama.cpp:full
+ghcr.io/ggerganov/llama.cpp:server-cuda
 nvcr.io/nvidia/cuda:12.4.1-base-ubuntu22.04
 nvcr.io/nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 #dify
