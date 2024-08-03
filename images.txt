@@ -1,3 +1,4 @@
+xprobe/xinference:v0.14.0
 ubuntu:22.04
 nvcr.io/nvidia/pytorch:24.02-py3
 ghcr.io/ggerganov/llama.cpp:server-cuda
