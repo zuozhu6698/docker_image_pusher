@@ -1,3 +1,4 @@
+ollama/quantize:latest
 ghcr.io/songquanpeng/one-api:v0.6.7
 savatar101/omniparse:0.1
 xprobe/xinference:v0.14.0
