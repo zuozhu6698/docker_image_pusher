@@ -1,6 +1,3 @@
-elasticsearch:8.15.0
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-kibana:8.15.0
 appropriate/curl
 infiniflow/ragflow:v0.9.0
 ghcr.io/flaresolverr/flaresolverr:latest
