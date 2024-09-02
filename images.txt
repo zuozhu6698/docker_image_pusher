@@ -1,1 +1,2 @@
-minio/minio:RELEASE.2024-05-01T01-11-10Z
+mysql:5.7.18
+redis:7.2.4
