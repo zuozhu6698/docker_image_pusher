@@ -1,2 +1,9 @@
-kibana:7.17.23
-elasticsearch:7.17.23
+redis:6-alpine
+langgenius/dify-api:0.15.3
+semitechnologies/weaviate:1.19.0
+langgenius/dify-api:0.15.3
+langgenius/dify-sandbox:0.2.10
+nginx:latest
+langgenius/dify-web:0.15.3
+ubuntu/squid:latest
+postgres:15-alpine
